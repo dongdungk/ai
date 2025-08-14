@@ -1,0 +1,6 @@
+__pycache__
+logconverted_downgrade/
+converted_downgrade_ir/
+test_downgrade_input/
+version_downgrade/
+.env
